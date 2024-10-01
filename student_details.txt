@@ -1,0 +1,10 @@
+Name: preeti singh
+Roll Number: 104
+Date of Birth: 22-09-1999
+Email: preeti@gmail.com
+Contact Number: 6789345902
+Admission Date: 14-04-2018
+Course Name: php
+Percentage: 48.75 (Pass%)
+Status: Pass
+Performance: Good
