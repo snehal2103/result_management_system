@@ -49,7 +49,8 @@ This Student Result Management System is a desktop application built using Pytho
 ## View result
 ![image](https://github.com/user-attachments/assets/1515e995-224e-4e03-8cd2-4ecbabb5b3ba)
 ## User Login
-![image](https://github.com/user-attachments/assets/52ff2f81-a4d0-4bf2-aafb-b2ea05749815)
+![image](https://github.com/user-attachments/assets/91736b69-a7e8-4ad3-b8e7-f03506a49b90)
+
  ## Registration
  
  ![image](https://github.com/user-attachments/assets/de1ea7c4-e85a-4d8b-a288-0a5c35891f60)
